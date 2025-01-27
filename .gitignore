@@ -1,0 +1,50 @@
+# Node modules
+node_modules/
+
+# Dependency directories
+/.pnp
+.pnp.js
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Build directories
+dist/
+build/
+
+# IDE settings
+.vscode/
+.idea/
+*.swp
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Environment files
+.env
+.env.local
+.env.*.local
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+*.orig
+
+# Media cache
+/media/cache/
+
+# Generated files
+*.css.map
+*.js.map
+
+# Coverage reports
+coverage/
+
+# Other system files
+*.lock
